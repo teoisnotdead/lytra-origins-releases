@@ -24,6 +24,8 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
   [origins.lytra.app/deck-builder](https://origins.lytra.app/deck-builder).
 - **For your stream**: the overlay as an OBS browser source, at
   `http://127.0.0.1:47750/obs/`, following what you fold, hide and point at.
+- **In English or Spanish**: *Language* in the tray — the menu, the overlay, the dashboard and
+  the cards' texts, in Spanish the game's own translation.
 - **Updates itself**: when it opens, it installs a newer version if there is one.
 
 ## What it reads, and what it does not
@@ -85,11 +87,13 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
   ronda — el tablero, las vidas y las torres — y tus mazos, cada uno con el código del juego
   para compartirlo o pegarlo en el juego. Haz clic en **YOU** en el overlay, o en *Open
   dashboard* en la bandeja.
-- **Un constructor de mazos**: arma un mazo con los filtros del juego y copia su código; el
+- **Un creador de mazos**: arma un mazo con los filtros del juego y copia su código; el
   juego lo importa igual que los suyos. En el dashboard, y en línea en
   [origins.lytra.app/deck-builder](https://origins.lytra.app/deck-builder).
 - **Para tu stream**: el overlay como fuente de navegador de OBS, en
   `http://127.0.0.1:47750/obs/`, siguiendo lo que pliegas, ocultas y señalas.
+- **En inglés o en español**: *Idioma* en la bandeja — el menú, el overlay, el dashboard y los
+  textos de las cartas, en español con la traducción del propio juego.
 - **Se actualiza solo**: al abrirse, instala la versión nueva si la hay.
 
 ## Qué lee, y qué no

@@ -2,6 +2,32 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.2.0 · 2026-10-31
+
+**EN**
+- **Language** in the tray: System, English or Español. Everything follows it — the tray's
+  menu, the overlay, the dashboard and the cards' texts, which in Spanish are the game's own
+  translation (its Latin American Spanish). Card names stay as the game keeps them.
+- The deck builder, in the dashboard and online: a card already in your deck goes grey with a
+  check; hover a card in your deck to see it large with its text; a wider deck column; new
+  controls; its filters in Spanish say what the game's deck creator says.
+- Online, at origins.lytra.app/decks: save your decks with a Lytra account (the same one as
+  tournaments.lytra.app), share them, like them, keep favorites, and add a YouTube video of
+  you playing one.
+
+**ES**
+- **Idioma** en la bandeja: Sistema, English o Español. Todo lo sigue: el menú de la bandeja,
+  el overlay, el dashboard y los textos de las cartas, que en español son la traducción del
+  propio juego (su español latinoamericano). Los nombres de las cartas quedan como el juego
+  los deja.
+- El creador de mazos, en el dashboard y en línea: una carta que ya está en tu mazo se pone
+  gris con un ✓; pasa el mouse por una carta de tu mazo para verla en grande con su texto;
+  una columna del mazo más ancha; controles nuevos; sus filtros en español dicen lo mismo que
+  el creador de mazos del juego.
+- En línea, en origins.lytra.app/decks: guarda tus mazos con una cuenta de Lytra (la misma de
+  tournaments.lytra.app), compártelos, dales me gusta, ten favoritos y agrega un video de
+  YouTube tuyo jugando uno.
+
 ## 0.1.0 · 2026-10-31
 
 **EN**
