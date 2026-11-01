@@ -2,6 +2,28 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.1 · 2026-11-01
+
+**EN**
+- **The cards a card makes**, everywhere it shows: Legion of the Dead's Zombie, Three Not So
+  Little Pigs' pigs, Van Helsing's Tools and his four tools, Three Blind Mice's Mouse… — 26
+  cards, read from the game's own data. In the overlay, hovering a card shows what it makes
+  beside it.
+- The deck builder, in the dashboard and online: the magnifier on a card opens it large, the
+  cards it makes fanned behind it — click one to bring it forward, with its own text and
+  numbers —; ← and → step through the cards, Esc closes. The Art view shows the cost alone, as
+  the picture it is.
+
+**ES**
+- **Las cartas que genera una carta**, en todos lados donde aparece: el Zombie de Legion of the
+  Dead, los cerdos de Three Not So Little Pigs, las Tools de Van Helsing y sus cuatro
+  herramientas, el Mouse de Three Blind Mice… — 26 cartas, leídas de los datos del propio
+  juego. En el overlay, al pasar el ratón por una carta se ve lo que genera a su lado.
+- El creador de mazos, en el dashboard y en línea: la lupa de una carta la abre en grande, con
+  las cartas que genera en abanico detrás — toca una para traerla adelante, con su propio texto
+  y sus números —; ← y → recorren las cartas, Esc cierra. La vista Arte muestra solo el coste,
+  como la imagen que es.
+
 ## 0.3.0 · 2026-11-01
 
 **EN**
