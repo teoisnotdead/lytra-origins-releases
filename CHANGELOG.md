@@ -2,6 +2,26 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.0 · 2026-11-01
+
+**EN**
+- The deck builder draws every card in **the game's own frame**, taken from your installation:
+  characters with their rounded frame and the tray for attack and health, spells with their
+  cut corners, the game's cost hexagon (winged for a legendary), sword, heart and alignment
+  ribbons, and the game's proportions.
+- Online, at origins.lytra.app/referral: turn your referral code into a card to share. Pick a
+  card, get a link and a picture; your friend copies the code into the game's Referrals tab, and
+  after 5 bosses you both get a Collector Pack.
+
+**ES**
+- El creador de mazos dibuja cada carta con **el marco del propio juego**, sacado de tu
+  instalación: los personajes con su marco redondeado y la bandeja para ataque y vida, los
+  hechizos con sus esquinas cortadas, el hexágono del coste del juego (con alas en una
+  legendaria), la espada, el corazón y las cintas de alineamiento, y las proporciones del juego.
+- En línea, en origins.lytra.app/referral: convierte tu código de referido en una carta para
+  compartir. Elige una carta y obtén un link y una imagen; tu amigo copia el código en la
+  pestaña Referidos del juego y, tras 5 jefes, los dos reciben un sobre de coleccionista.
+
 ## 0.2.0 · 2026-10-31
 
 **EN**
