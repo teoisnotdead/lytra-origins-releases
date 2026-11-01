@@ -2,6 +2,22 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.2 · 2026-11-01
+
+**EN**
+- The dashboard's **Card by card** draws each card in the game's own frame, as the deck
+  builder does; a card never out in a match stays dimmed. Click one — there or in the deck
+  above it — to open it large, with the cards it makes behind it.
+- In the overlay, your opponent's cards not shown yet carry Lytra's mark, faint, in their
+  dashed slots.
+
+**ES**
+- **Carta a carta** del dashboard dibuja cada carta con el marco del propio juego, como el
+  creador de mazos; una carta que no salió en ninguna partida sigue apagada. Haz clic en una —
+  ahí o en el mazo de arriba — para abrirla en grande, con las cartas que genera detrás.
+- En el overlay, las cartas de tu rival que aún no muestra llevan la marca de Lytra, tenue, en
+  sus espacios punteados.
+
 ## 0.3.1 · 2026-11-01
 
 **EN**
