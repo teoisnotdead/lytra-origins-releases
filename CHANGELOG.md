@@ -2,6 +2,28 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.3 · 2026-11-02
+
+**EN**
+- **Community stats.** Your Ranked matches now help build public deck and card stats for
+  origins.lytra.app, anonymously: your deck, the result and what your opponent showed, never a
+  name, an account or the hour. The overlay tells you before anything goes, and only matches
+  played after that count, never your history. In the EU, the EEA and the UK it stays off until
+  you say yes.
+- One click turns it off: in the tray, or on the dashboard's new **Profile** page, which also shows
+  your last Ranked match exactly as it goes.
+- The terms now say all this.
+
+**ES**
+- **Estadísticas de la comunidad.** Tus partidas ranked ahora ayudan a armar estadísticas públicas
+  de mazos y cartas para origins.lytra.app, de forma anónima: tu mazo, el resultado y lo que mostró
+  tu rival, nunca un nombre, una cuenta ni la hora. El overlay te avisa antes de enviar nada, y solo
+  cuentan las partidas jugadas después, nunca tu historial. En la UE, el EEE y el Reino Unido queda
+  desactivado hasta que digas que sí.
+- Un clic lo desactiva: en la bandeja, o en la nueva página **Perfil** del dashboard, que además
+  muestra tu última partida ranked tal como se envía.
+- Las condiciones ahora dicen todo esto.
+
 ## 0.3.2 · 2026-11-01
 
 **EN**

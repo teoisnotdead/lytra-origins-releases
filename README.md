@@ -36,9 +36,11 @@ not inject anything into the game, change it or automate it — and it shows onl
 game already shows you: never the cards in your opponent's hand or deck. One thing more it
 says: when your opponent is a bot, which the game knows.
 
-**Nothing about you leaves your computer.** It connects to this page to check for new
-versions and download them, and to nothing else. Your match history and the dashboard stay
-on your computer. No account, no sign-in.
+**Your match history and the dashboard stay on your computer.** It connects to this page to
+check for new versions and download them. And it shares **anonymous community stats** from your
+Ranked matches: your deck, the result and what your opponent showed, never a name or an account.
+It tells you before anything goes, and one click in the tray or the dashboard's Profile page turns
+it off; in the EU, the EEA and the UK it stays off until you say yes. No account, no sign-in.
 
 ## Installing
 
@@ -104,9 +106,12 @@ inyecta nada en el juego, no lo modifica ni lo automatiza — y muestra solo lo 
 ya te muestra: nunca las cartas de la mano ni del mazo de tu rival. Dice una cosa más:
 cuándo tu rival es un bot, que el juego sabe.
 
-**Nada tuyo sale de tu computador.** Se conecta con esta página para buscar versiones nuevas
-y descargarlas, y con nada más. Tu historial de partidas y el dashboard se quedan en tu
-computador. Sin cuenta, sin iniciar sesión.
+**Tu historial de partidas y el dashboard se quedan en tu computador.** Se conecta con esta
+página para buscar versiones nuevas y descargarlas. Y comparte **estadísticas anónimas de la
+comunidad** de tus partidas ranked: tu mazo, el resultado y lo que mostró tu rival, nunca un nombre
+ni una cuenta. Te avisa antes de enviar nada, y un clic en la bandeja o en la página Perfil del
+dashboard lo desactiva; en la UE, el EEE y el Reino Unido queda desactivado hasta que digas que sí.
+Sin cuenta, sin iniciar sesión.
 
 ## Instalar
 
