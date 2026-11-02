@@ -2,6 +2,33 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.6 · 2026-11-02
+
+**EN**
+- **The overlay gets out of your way.** It now opens hidden, with only the eye at the edge of your
+  screen. It comes out by itself when a match starts, and puts itself away when the match ends or
+  the game closes. Hiding or folding a panel during a match still holds, and the eye still brings
+  it back whenever you want.
+- While the cards' art is being made, the first time or after a patch, your panel stays open to
+  show the progress.
+- The notice about anonymous stats now shows when your panel opens, and comes back until you answer
+  it.
+- In the dashboard's round by round, a tower that was healed now shows in **green** rather than red.
+- A round with no cards standing as its combat began, after a board wipe for example, now shows its
+  empty board rather than saying it could not be read.
+
+**ES**
+- **El overlay ya no estorba.** Ahora se abre oculto, solo con el ojo en el borde de tu pantalla. Sale
+  solo cuando empieza una partida, y se guarda solo cuando termina o se cierra el juego. Ocultar o
+  plegar un panel durante la partida se sigue respetando, y el ojo lo trae de vuelta cuando quieras.
+- Mientras se genera el arte de las cartas, la primera vez o después de un parche, tu panel queda
+  abierto para mostrar el progreso.
+- El aviso de las estadísticas anónimas ahora aparece cuando se abre tu panel, y vuelve hasta que lo
+  respondas.
+- En la ronda a ronda del dashboard, una torre que se curó ahora sale en **verde** y no en rojo.
+- Una ronda sin cartas en pie al empezar su combate, por ejemplo después de limpiar el tablero, ahora
+  muestra su tablero vacío en vez de decir que no se pudo leer.
+
 ## 0.3.5 · 2026-11-02
 
 **EN**

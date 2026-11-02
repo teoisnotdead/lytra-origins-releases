@@ -14,7 +14,8 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
 - **An overlay beside the board**: your deck on the left — what is left in it, what you
   have drawn and played, the cards made during the match, your odds of drawing a card — and
   your opponent's cards on the right, as they reveal them, with how many they swapped at the
-  mulligan and how many are left in their deck.
+  mulligan and how many are left in their deck. It opens by itself when a match starts and puts
+  itself away when it ends, leaving only a small eye at the edge of your screen.
 - **A dashboard in your browser**: every match you played while it ran, round by round —
   the board, the lives and the towers — and your decks, each with the game's own code to
   share it or paste it in the game. Click **YOU** on the overlay, or *Open dashboard* in
@@ -86,7 +87,8 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
 - **Un overlay junto al tablero**: tu mazo a la izquierda — lo que te queda, lo que has
   robado y jugado, las cartas creadas durante la partida, la probabilidad de robar una
   carta — y las cartas de tu rival a la derecha, a medida que las revela, con cuántas cambió
-  en el mulligan y cuántas le quedan en el mazo.
+  en el mulligan y cuántas le quedan en el mazo. Se abre solo cuando empieza una partida y se
+  guarda solo cuando termina, dejando solo un pequeño ojo en el borde de tu pantalla.
 - **Un dashboard en tu navegador**: cada partida que jugaste con la app abierta, ronda a
   ronda — el tablero, las vidas y las torres — y tus mazos, cada uno con el código del juego
   para compartirlo o pegarlo en el juego. Haz clic en **YOU** en el overlay, o en *Open
