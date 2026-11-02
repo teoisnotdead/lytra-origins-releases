@@ -2,6 +2,23 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.5 · 2026-11-02
+
+**EN**
+- **A match's cards are the game's own.** In the dashboard, a match's board and decks now draw each
+  card in the game's frame, as the deck builder does.
+- **Attack and health on the card.** On the round-by-round board, each card shows them on its own
+  frame: **red** when below the card's own, **green** when above.
+- The cards listed under the board, and the ones a match made, are larger, so you can read them.
+
+**ES**
+- **Las cartas de una partida son las del juego.** En el dashboard, el tablero y los mazos de una
+  partida ahora dibujan cada carta con el marco del juego, como en el creador de mazos.
+- **Ataque y vida sobre la carta.** En el tablero de la ronda a ronda, cada carta los muestra en su
+  propio marco: en **rojo** si están bajo lo de la carta, en **verde** si están sobre lo de la carta.
+- Las cartas que aparecen bajo el tablero, y las que generó la partida, son más grandes para que se
+  puedan leer.
+
 ## 0.3.4 · 2026-11-02
 
 **EN**
