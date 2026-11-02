@@ -2,6 +2,29 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.4 · 2026-11-02
+
+**EN**
+- **Each panel its own.** The tray now has **Your panel** and **Opponent's panel**, each with its
+  own grid and size: yours normal and your opponent's small, four by three and six by two.
+- **Move your opponent's panel** by dragging its header, for example across the top of the board.
+  It stays where you leave it, your stream follows, and **Back to its place** in the tray returns
+  it to its edge.
+- The odds over your panel now say **Draw odds**: "Next draw" could read as the card that comes next.
+- The dashboard's deck builder starts empty each time, and asks before you leave a deck you are
+  building.
+
+**ES**
+- **Cada panel con lo suyo.** La bandeja ahora tiene **Tu panel** y **Panel del rival**, cada uno con
+  su cuadrícula y su tamaño: el tuyo normal y el del rival pequeño, cuatro por tres y seis por dos.
+- **Mueve el panel de tu rival** arrastrando su cabecera, por ejemplo sobre la parte de arriba del
+  tablero. Se queda donde lo dejes, tu stream lo sigue, y **Volver a su lugar** en la bandeja lo
+  devuelve a su borde.
+- La probabilidad sobre tu panel ahora dice **Prob. de robo**: "Próximo robo" podía entenderse como la
+  carta que viene.
+- El creador de mazos del dashboard parte vacío cada vez, y pregunta antes de salir de un mazo que
+  estás armando.
+
 ## 0.3.3 · 2026-11-02
 
 **EN**

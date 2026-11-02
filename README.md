@@ -24,6 +24,8 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
   [origins.lytra.app/deck-builder](https://origins.lytra.app/deck-builder).
 - **For your stream**: the overlay as an OBS browser source, at
   `http://127.0.0.1:47750/obs/`, following what you fold, hide and point at.
+- **Each panel its own**: a grid and a size for yours and for your opponent's, from the tray. Drag
+  your opponent's panel by its header to wherever the board leaves room.
 - **In English or Spanish**: *Language* in the tray — the menu, the overlay, the dashboard and
   the cards' texts, in Spanish the game's own translation.
 - **Updates itself**: when it opens, it installs a newer version if there is one.
@@ -94,6 +96,8 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
   [origins.lytra.app/deck-builder](https://origins.lytra.app/deck-builder).
 - **Para tu stream**: el overlay como fuente de navegador de OBS, en
   `http://127.0.0.1:47750/obs/`, siguiendo lo que pliegas, ocultas y señalas.
+- **Cada panel con lo suyo**: una cuadrícula y un tamaño para el tuyo y para el de tu rival, desde la
+  bandeja. Arrastra el panel de tu rival por su cabecera hasta donde el tablero deje espacio.
 - **En inglés o en español**: *Idioma* en la bandeja — el menú, el overlay, el dashboard y los
   textos de las cartas, en español con la traducción del propio juego.
 - **Se actualiza solo**: al abrirse, instala la versión nueva si la hay.
