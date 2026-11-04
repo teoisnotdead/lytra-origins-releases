@@ -2,6 +2,28 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.7 · 2026-11-03
+
+**EN**
+- **Your statistics are your real matches.** Practice and tutorial matches are no longer kept, and
+  the ones already kept are removed when you update, so they no longer count in your win rate,
+  streak or decks. The dashboard's filters for them are gone too. Ranked matches against bots still
+  count.
+- **Your decks go by their names.** The dashboard now reads your decks' names from the game's own
+  files, so a deck shows the name you gave it even if you have only played it in ranked. A renamed
+  deck catches up when the next match ends or the app opens.
+- The overlay and the dashboard no longer mark an opponent as a bot.
+
+**ES**
+- **Tus estadísticas son tus partidas reales.** Las partidas de práctica y de tutorial ya no se
+  guardan, y las ya guardadas se borran al actualizar, así que dejan de contar en tu porcentaje de
+  victorias, tu racha y tus mazos. También se van los filtros del dashboard para ellas. Las ranked
+  contra bots siguen contando.
+- **Tus mazos con su nombre.** El dashboard ahora lee los nombres de tus mazos desde los archivos del
+  propio juego, así que un mazo muestra el nombre que le pusiste aunque solo lo hayas jugado en ranked.
+  Si renombras uno, se actualiza al terminar la siguiente partida o al abrir la app.
+- El overlay y el dashboard ya no marcan a un rival como bot.
+
 ## 0.3.6 · 2026-11-02
 
 **EN**

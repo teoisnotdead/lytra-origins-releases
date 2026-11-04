@@ -16,7 +16,7 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
   your opponent's cards on the right, as they reveal them, with how many they swapped at the
   mulligan and how many are left in their deck. It opens by itself when a match starts and puts
   itself away when it ends, leaving only a small eye at the edge of your screen.
-- **A dashboard in your browser**: every match you played while it ran, round by round —
+- **A dashboard in your browser**: every ranked match you played while it ran, round by round —
   the board, the lives and the towers — and your decks, each with the game's own code to
   share it or paste it in the game. Click **YOU** on the overlay, or *Open dashboard* in
   the tray.
@@ -34,10 +34,10 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
 ## What it reads, and what it does not
 
 Lytra · Origins reads, on your computer only: **the game's memory while the game runs**,
-and the card list and pictures from the game's own installation. It only reads — it does
+the card list and pictures from the game's own installation, and your decks and their names
+from the game's own files. It only reads — it does
 not inject anything into the game, change it or automate it — and it shows only what the
-game already shows you: never the cards in your opponent's hand or deck. One thing more it
-says: when your opponent is a bot, which the game knows.
+game already shows you: never the cards in your opponent's hand or deck.
 
 **Your match history and the dashboard stay on your computer.** It connects to this page to
 check for new versions and download them. And it shares **anonymous community stats** from your
@@ -89,7 +89,7 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
   carta — y las cartas de tu rival a la derecha, a medida que las revela, con cuántas cambió
   en el mulligan y cuántas le quedan en el mazo. Se abre solo cuando empieza una partida y se
   guarda solo cuando termina, dejando solo un pequeño ojo en el borde de tu pantalla.
-- **Un dashboard en tu navegador**: cada partida que jugaste con la app abierta, ronda a
+- **Un dashboard en tu navegador**: cada partida ranked que jugaste con la app abierta, ronda a
   ronda — el tablero, las vidas y las torres — y tus mazos, cada uno con el código del juego
   para compartirlo o pegarlo en el juego. Haz clic en **YOU** en el overlay, o en *Open
   dashboard* en la bandeja.
@@ -107,10 +107,10 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
 ## Qué lee, y qué no
 
 Lytra · Origins lee, solo en tu computador: **la memoria del juego mientras está abierto**,
-y la lista de cartas y sus imágenes desde la propia instalación del juego. Solo lee — no
+la lista de cartas y sus imágenes desde la propia instalación del juego, y tus mazos con sus
+nombres desde los archivos del propio juego. Solo lee — no
 inyecta nada en el juego, no lo modifica ni lo automatiza — y muestra solo lo que el juego
-ya te muestra: nunca las cartas de la mano ni del mazo de tu rival. Dice una cosa más:
-cuándo tu rival es un bot, que el juego sabe.
+ya te muestra: nunca las cartas de la mano ni del mazo de tu rival.
 
 **Tu historial de partidas y el dashboard se quedan en tu computador.** Se conecta con esta
 página para buscar versiones nuevas y descargarlas. Y comparte **estadísticas anónimas de la
