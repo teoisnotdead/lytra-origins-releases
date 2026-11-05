@@ -2,6 +2,26 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.8 · 2026-11-04
+
+**EN**
+- **Community stats keep balance changes apart.** Origins can change cards without a Steam update, as
+  it did with today's Dr. Frank update, so the game's version alone no longer said which cards a match
+  was played with. Each shared match now says so, and origins.lytra.app/stats counts each set of
+  cards on its own.
+- **Boss fights are no longer kept.** Like practice and tutorial matches, they stop counting in your
+  win rate, streak and decks, and the ones already kept are removed when you update. Ranked matches
+  are untouched.
+
+**ES**
+- **Las estadísticas de la comunidad separan los cambios de balance.** Origins puede cambiar cartas sin
+  una actualización de Steam, como hizo hoy con la de Dr. Frank, así que la versión del juego ya no
+  decía con qué cartas se jugó una partida. Ahora cada partida compartida lo dice, y
+  origins.lytra.app/stats cuenta cada conjunto de cartas por separado.
+- **Las peleas contra jefes ya no se guardan.** Igual que las de práctica y tutorial, dejan de contar en
+  tu porcentaje de victorias, tu racha y tus mazos, y las ya guardadas se borran al actualizar. Las
+  ranked no cambian.
+
 ## 0.3.7 · 2026-11-03
 
 **EN**
