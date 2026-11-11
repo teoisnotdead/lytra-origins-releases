@@ -2,6 +2,20 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.9 · 2026-11-10
+
+**EN**
+- **Cards no longer lose their names and art after a game update.** Starting after an update, Origins
+  takes a few seconds to write its new card data, and a tracker opened at the same time read it half
+  written: some cards showed as codes with no picture until you reopened the tracker. It now notices
+  when the game has finished and reads the cards again by itself.
+
+**ES**
+- **Las cartas ya no pierden su nombre y su arte tras una actualización del juego.** Al arrancar después
+  de una actualización, Origins tarda unos segundos en escribir los datos nuevos de sus cartas, y un
+  tracker abierto a la vez los leía a medio escribir: algunas cartas salían como códigos y sin imagen
+  hasta reabrirlo. Ahora se da cuenta de cuándo el juego terminó y vuelve a leer las cartas solo.
+
 ## 0.3.8 · 2026-11-04
 
 **EN**
