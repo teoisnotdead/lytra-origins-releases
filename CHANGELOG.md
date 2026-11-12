@@ -2,6 +2,28 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.10 · 2026-11-12
+
+**EN**
+- **Discarded cards have their own counter.** A card sent from the hand to the graveyard without
+  being played used to count as destroyed or as a spell cast. The footer now counts discards apart,
+  and hovering yours lists them; the opponent's are a number only. In your deck, a discarded card
+  has an amber edge.
+- **Discards in the dashboard.** A match shows how many cards each side discarded and which of
+  yours, in matches played from this version on.
+- **Your panel can be moved.** Drag it by its header, as the opponent's: it stays where you leave
+  it, and the tray's "Your panel" menu puts it back at its edge.
+
+**ES**
+- **Las cartas descartadas tienen su propio contador.** Una carta que iba de la mano al cementerio
+  sin jugarse contaba como destruida o como hechizo lanzado. Ahora el footer cuenta los descartes
+  aparte, y al pasar el cursor por el tuyo las lista; del rival solo el número. En tu mazo, una
+  carta descartada lleva el borde ámbar.
+- **Descartes en el dashboard.** Una partida muestra cuántas cartas descartó cada lado y cuáles de
+  las tuyas, en las partidas jugadas desde esta versión.
+- **Tu panel se puede mover.** Arrástralo por su encabezado, como el del rival: se queda donde lo
+  dejes, y el menú "Tu panel" de la bandeja lo devuelve a su borde.
+
 ## 0.3.9 · 2026-11-10
 
 **EN**
