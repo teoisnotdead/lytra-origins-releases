@@ -2,6 +2,35 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.11 · 2026-11-13
+
+**EN**
+- **Who reveals first.** Your panel now says who reveals first this round, "Reveal: you" or
+  "Reveal: rival", beside the combat direction: the game's own sign can end up under a panel.
+- **The combat direction is easier to read.** It moved from the header to the row of the hearts,
+  with its word: "Combat" and the arrow.
+- **Counters at the side.** A new option in the tray's menu puts both panels' counters in a column
+  beside the cards instead of under them: the panel is a row shorter and a little wider.
+- **No hand counter.** The game already shows both hands, so the footer is down to five counters:
+  deck, destroyed, spells cast, discarded and created.
+- **Lists open upwards again.** With a panel at the top of the screen, hovering a counter opened
+  its list downwards, away from the panel. It now opens over the cards, from the footer up.
+
+**ES**
+- **Quién revela primero.** Tu panel ahora dice quién revela primero esta ronda, "Revela: tú" o
+  "Revela: rival", al lado de la dirección del combate: el cartel del juego puede quedar debajo
+  de un panel.
+- **La dirección del combate se lee mejor.** Pasó del encabezado a la fila de los corazones, con
+  su palabra: "Combate" y la flecha.
+- **Contadores al costado.** Una opción nueva en el menú de la bandeja pone los contadores de los
+  dos paneles en una columna al lado de las cartas en vez de debajo: el panel queda una fila más
+  bajo y un poco más ancho.
+- **Sin contador de la mano.** El juego ya muestra las dos manos, así que el footer queda en cinco
+  contadores: mazo, destruidas, hechizos lanzados, descartadas y creadas.
+- **Las listas vuelven a abrirse hacia arriba.** Con un panel en lo alto de la pantalla, pasar el
+  cursor por un contador abría su lista hacia abajo, fuera del panel. Ahora se abre sobre las
+  cartas, desde el footer hacia arriba.
+
 ## 0.3.10 · 2026-11-12
 
 **EN**
