@@ -2,6 +2,35 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.12 · 2026-11-15
+
+**EN**
+- **Deck stats.** Under your panel, your deck's record in Ranked: wins, losses and win rate. Click
+  its label to switch between lifetime and this session, every match since you opened the app.
+- **A deck is its exact list.** Change one card and it is a new deck, whose record starts from
+  zero. The matches of the old list stay in your history, and its record comes back if you
+  return to it.
+- **Hide them from the tray:** *Your panel → Deck stats*.
+- **A new layout for new installs.** Lytra · Origins now starts with both panels six by two and
+  small, in the top corners of the screen, with the counters beside the cards. If you already
+  have it, your layout stays as you left it.
+- **Bots are marked again.** When the game knows your opponent is a bot, the overlay says so
+  beside their name, and the dashboard in your match list.
+
+**ES**
+- **Estadísticas del mazo.** Debajo de tu panel, el récord de tu mazo en ranked: victorias,
+  derrotas y % de victorias. Haz clic en su etiqueta para cambiar entre el histórico y esta
+  sesión, todas las partidas desde que abriste la app.
+- **Un mazo es su lista exacta.** Si cambias una carta, es un mazo nuevo y su récord empieza de
+  cero. Las partidas de la lista anterior siguen en tu historial, y su récord vuelve si vuelves a
+  ella.
+- **Se ocultan desde la bandeja:** *Tu panel → Estadísticas del mazo*.
+- **Un layout nuevo para las instalaciones nuevas.** Lytra · Origins ahora empieza con los dos
+  paneles en 6 × 2 y pequeños en las esquinas de arriba de la pantalla, con los contadores al
+  lado de las cartas. Si ya lo tienes, tu layout queda como lo dejaste.
+- **Los bots vuelven a marcarse.** Cuando el juego sabe que tu rival es un bot, el overlay lo
+  dice junto a su nombre, y el dashboard en tu lista de partidas.
+
 ## 0.3.11 · 2026-11-13
 
 **EN**

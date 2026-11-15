@@ -14,7 +14,9 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
 - **An overlay beside the board**: your deck on the left — what is left in it, what you
   have drawn and played, the cards made during the match, your odds of drawing a card — and
   your opponent's cards on the right, as they reveal them, with how many they swapped at the
-  mulligan and how many are left in their deck. It opens by itself when a match starts and puts
+  mulligan and how many are left in their deck. Your panel also says which way combat goes and
+  who reveals first this round, and under your deck, its record: wins, losses and win rate with
+  exactly that list, all time or this session. It opens by itself when a match starts and puts
   itself away when it ends, leaving only a small eye at the edge of your screen.
 - **A dashboard in your browser**: every ranked match you played while it ran, round by round —
   the board, the lives and the towers — and your decks, each with the game's own code to
@@ -25,8 +27,10 @@ A free, fan-made deck tracker for **Origins TCG** on Windows — from the makers
   [origins.lytra.app/deck-builder](https://origins.lytra.app/deck-builder).
 - **For your stream**: the overlay as an OBS browser source, at
   `http://127.0.0.1:47750/obs/`, following what you fold, hide and point at.
-- **Each panel its own**: a grid and a size for yours and for your opponent's, from the tray. Drag
-  your opponent's panel by its header to wherever the board leaves room.
+- **Each panel its own**: they start six by two, small, in the top corners of the screen, with the
+  counters beside the cards. From the tray, a grid and a size for yours and for your opponent's,
+  and the counters under the cards or beside them. Drag either panel by its header to wherever
+  the board leaves room.
 - **In English or Spanish**: *Language* in the tray — the menu, the overlay, the dashboard and
   the cards' texts, in Spanish the game's own translation.
 - **Updates itself**: when it opens, it installs a newer version if there is one.
@@ -37,7 +41,8 @@ Lytra · Origins reads, on your computer only: **the game's memory while the gam
 the card list and pictures from the game's own installation, and your decks and their names
 from the game's own files. It only reads — it does
 not inject anything into the game, change it or automate it — and it shows only what the
-game already shows you: never the cards in your opponent's hand or deck.
+game already shows you: never the cards in your opponent's hand or deck. One thing more it
+says: when your opponent is a bot, which the game knows.
 
 **Your match history and the dashboard stay on your computer.** It connects to this page to
 check for new versions and download them. And it shares **anonymous community stats** from your
@@ -87,7 +92,9 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
 - **Un overlay junto al tablero**: tu mazo a la izquierda — lo que te queda, lo que has
   robado y jugado, las cartas creadas durante la partida, la probabilidad de robar una
   carta — y las cartas de tu rival a la derecha, a medida que las revela, con cuántas cambió
-  en el mulligan y cuántas le quedan en el mazo. Se abre solo cuando empieza una partida y se
+  en el mulligan y cuántas le quedan en el mazo. Tu panel también dice hacia dónde va el combate
+  y quién revela primero esta ronda, y debajo de tu mazo, su récord: victorias, derrotas y % de
+  victorias con exactamente esa lista, en total o en esta sesión. Se abre solo cuando empieza una partida y se
   guarda solo cuando termina, dejando solo un pequeño ojo en el borde de tu pantalla.
 - **Un dashboard en tu navegador**: cada partida ranked que jugaste con la app abierta, ronda a
   ronda — el tablero, las vidas y las torres — y tus mazos, cada uno con el código del juego
@@ -98,8 +105,10 @@ Un tracker de mazos gratuito para **Origins TCG** en Windows, hecho por fans —
   [origins.lytra.app/deck-builder](https://origins.lytra.app/deck-builder).
 - **Para tu stream**: el overlay como fuente de navegador de OBS, en
   `http://127.0.0.1:47750/obs/`, siguiendo lo que pliegas, ocultas y señalas.
-- **Cada panel con lo suyo**: una cuadrícula y un tamaño para el tuyo y para el de tu rival, desde la
-  bandeja. Arrastra el panel de tu rival por su cabecera hasta donde el tablero deje espacio.
+- **Cada panel con lo suyo**: empiezan en 6 × 2 y pequeños en las esquinas de arriba de la pantalla, con los
+  contadores al lado de las cartas. Desde la bandeja, una cuadrícula y un tamaño para el tuyo y
+  para el de tu rival, y los contadores debajo de las cartas o al lado. Arrastra cualquiera de
+  los dos paneles por su cabecera hasta donde el tablero deje espacio.
 - **En inglés o en español**: *Idioma* en la bandeja — el menú, el overlay, el dashboard y los
   textos de las cartas, en español con la traducción del propio juego.
 - **Se actualiza solo**: al abrirse, instala la versión nueva si la hay.
@@ -110,7 +119,8 @@ Lytra · Origins lee, solo en tu computador: **la memoria del juego mientras est
 la lista de cartas y sus imágenes desde la propia instalación del juego, y tus mazos con sus
 nombres desde los archivos del propio juego. Solo lee — no
 inyecta nada en el juego, no lo modifica ni lo automatiza — y muestra solo lo que el juego
-ya te muestra: nunca las cartas de la mano ni del mazo de tu rival.
+ya te muestra: nunca las cartas de la mano ni del mazo de tu rival. Dice una cosa más:
+cuándo tu rival es un bot, que el juego sabe.
 
 **Tu historial de partidas y el dashboard se quedan en tu computador.** Se conecta con esta
 página para buscar versiones nuevas y descargarlas. Y comparte **estadísticas anónimas de la
