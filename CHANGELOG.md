@@ -2,6 +2,20 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.13 · 2026-11-20
+
+**EN**
+- **Jekyll and Hyde are tracked.** When a Jekyll turns into Hyde in a hand — or Hyde into
+  Jekyll — the game calls the new one "created by" the other, and Lytra counted it as a card the
+  match made. Now it is the card the deck was built with: in your opponent's deck list it shows
+  as seen, and for your own deck it is no longer one more card under *Created*.
+
+**ES**
+- **Jekyll y Hyde se trackean.** Cuando un Jekyll se transforma en Hyde en una mano — o Hyde en
+  Jekyll —, el juego llama a la nueva "creada por" la otra, y Lytra la contaba como una carta
+  que hizo la partida. Ahora es la carta con la que se armó el mazo: en la lista del mazo de tu
+  oponente aparece como vista, y en tu propio mazo ya no es una carta más en *Creadas*.
+
 ## 0.3.12 · 2026-11-15
 
 **EN**
