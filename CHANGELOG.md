@@ -2,6 +2,25 @@
 
 Each version in English, then in Spanish. *Cada versión en inglés y luego en español.*
 
+## 0.3.14 · 2026-11-25
+
+**EN**
+- **Your opponent's discards, by name.** The game shows a card as it is discarded, yours or your
+  opponent's, and now Lytra does too: hover *Discarded* under your opponent's panel to see which
+  cards they threw away. A card they discarded counts as seen in their deck list, with the amber
+  edge yours get.
+- **In your history too.** A match's page lists the cards your opponent discarded, under their
+  cards. Matches played before this version keep how many, without names.
+
+**ES**
+- **Las descartadas de tu oponente, con nombre.** El juego muestra la carta que se descarta, tuya
+  o de tu oponente, y ahora Lytra también: pasa el mouse por *Descartadas* bajo el panel de tu
+  oponente para ver cuáles tiró. Una carta que descartó cuenta como vista en la lista de su mazo,
+  con el borde ámbar que tienen las tuyas.
+- **También en tu historial.** La página de una partida lista las cartas que descartó tu
+  oponente, debajo de sus cartas. Las partidas jugadas antes de esta versión guardan cuántas, sin
+  nombres.
+
 ## 0.3.13 · 2026-11-20
 
 **EN**
